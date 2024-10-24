@@ -1,0 +1,73 @@
+.box{
+   background-color: #e4f9f5;
+ 
+   overflow: hidden;
+   
+}
+
+
+
+.box2 h2{
+   display: inline-block;
+   margin-left: 30px;
+   
+   
+   vertical-align: top;
+   
+}
+.intro-video {
+  width: 190px;  /* Set the width of the video */
+  height: auto;  /* Maintain aspect ratio */
+  margin-left: 130px;
+  /* float: left;   */
+  /* margin-right: 20px;  */
+  border-radius: 10px; /* Optional: rounding the corners of the video */
+  /* border: 2px solid black; */
+}
+
+ .box2{
+   background-image: url(images/mountain.png);
+   background-repeat: no-repeat;
+    background-size: contain; 
+    background-position: right;
+    /* border: 2px solid red; */
+
+    } 
+
+
+
+  header{
+   position: sticky;
+   top: 0; 
+   z-index: 1000; 
+   /* background-color: white;  */
+   /* background-color: #4A628A; */
+   background-color: #7AB2D3;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+ }
+ 
+ .element{
+  /* background-color: red; */
+  padding-left: 60px;
+  text-align: left;
+
+ }
+
+body{
+  background-color: #B9E5E8;
+}
+
+.project{
+  background-color: #DFF2EB;
+  border-radius: 40px;
+  margin: 30px;
+}
+
+.gif{
+  all: unset;
+  border: 2px solid black;
+  height: 200px;
+  width: 200px;
+  
+  
+}
